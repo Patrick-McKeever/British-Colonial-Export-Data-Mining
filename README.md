@@ -3,7 +3,7 @@ Data mining project performed on pdfs from british colonial office's documents o
 
 ## Sources
 
-If you particularly care about checking my results, you can find the sources [here](https://archive.org/search.php?query=creator%3A%22Great+Britain.+Colonial+Office%22&and%5B%5D=year%3A%221938%22&and%5B%5D=year%3A%221937%22&and%5B%5D=year%3A%221936%22&and%5B%5D=year%3A%221935%22&and%5B%5D=year%3A%221934%22&and%5B%5D=year%3A%221933%22&and%5B%5D=year%3A%221932%22&and%5B%5D=year%3A%221931%22&and%5B%5D=year%3A%221930%22&and%5B%5D=year%3A%221929%22&and%5B%5D=year%3A%221927%22&and%5B%5D=year%3A%221922%22&and%5B%5D=year%3A%221921%22&and%5B%5D=year%3A%221920%22&page=2). Only some of these were used in the script, since many were not parsable by a pdf reader. The usable files were stored in a directory entitled `pdf`, though said directory proved too large to upload.
+If you particularly care about checking my results, you can find the sources [here](https://archive.org/search.php?query=creator%3A%22Great+Britain.+Colonial+Office%22&and%5B%5D=year%3A%221938%22&and%5B%5D=year%3A%221937%22&and%5B%5D=year%3A%221936%22&and%5B%5D=year%3A%221935%22&and%5B%5D=year%3A%221934%22&and%5B%5D=year%3A%221933%22&and%5B%5D=year%3A%221932%22&and%5B%5D=year%3A%221931%22&and%5B%5D=year%3A%221930%22&and%5B%5D=year%3A%221929%22&and%5B%5D=year%3A%221927%22&and%5B%5D=year%3A%221922%22&and%5B%5D=year%3A%221921%22&and%5B%5D=year%3A%221920%22&page=2). Only some of these were used in the script, since many were not parsable by a pdf reader. The usable files were stored in a directory entitled `pdfs`, though said directory proved too large to upload.
 
 
 ## Data Mining Methodology
