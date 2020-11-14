@@ -14,4 +14,4 @@ A thorough explanation of data-mining methodology is offered in the repo's '.ipy
 
 At the moment, we have generated a json file containing the relevant export tables for each report, sorted by the name of the colony and the year of the report. Note that export tables span several years, so there may be overlap between multiple tables (discrepancies between tables, however, made me reticent to simplify into a `data[country][year] -> table` configuration). This is stored in the `codeGenerated.json` file.
 
-At some point, I will upload a secondary file containing manually entered data from the PDFs and a handful of PDFs that poppler was unable to read. This will be another `json` file, though it does not exist at the moment.
+At some point, I will upload a secondary file containing manually entered data from the PDFs and a handful of PDFs that poppler was unable to read. This will be another `json` file, though it does not exist at the moment. `codeGenerated.json`  will still remain to show the capabilities of the data-mining script.
