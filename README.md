@@ -8,7 +8,7 @@ If you particularly care about checking my results, you can find the sources [he
 
 ## Data Mining Methodology
 
-A thorough explanation of data-mining methodology is offered in the repo's '.ipynb' file. We isolated pdfs that were readable (e.g. did not have sideways export tables and did not store pages as images) and employed a slew of regexes to identify and parse tables enumerating exported commodities and their respective values. In doing so, we achieved a high level of accuracy.
+A thorough explanation of data-mining methodology is offered in the repo's '.ipynb' file. We isolated pdfs that were readable (e.g. did not have sideways export tables and did not store pages as images) and employed a slew of regexes to identify and parse tables enumerating exported commodities and their respective values. In doing so, we achieved a high level of accuracy, though several entries to the code-generated `json` file warrant manual revision.
 
 ## Results
 
